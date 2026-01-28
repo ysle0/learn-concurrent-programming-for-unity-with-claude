@@ -132,9 +132,9 @@ Unity와 C#을 활용한 비동기/병렬 프로그래밍 교육 레포지토리
 - [x] Part 1: 기초 개념 (3/3) ✅
 - [x] Part 2: Thread 기초 (2/2) ✅
 - [x] Part 3: 전통적인 비동기 패턴 (2/2) ✅
-- [ ] Part 4: async/await (3/6) - 08, 09, 13 완료
-- [ ] Part 5: 비동기 스트림 & 채널 (0/2)
-- [ ] Part 6: Reactive Programming (0/2)
+- [x] Part 4: async/await (6/6) ✅
+- [x] Part 5: 비동기 스트림 & 채널 (2/2) ✅
+- [x] Part 6: Reactive Programming (2/2) ✅
 - [ ] Part 7: C# 병렬 도구 (0/3)
 - [ ] Part 8: Unity DOTS (0/4)
 - [ ] Part 9: 네트워크 통신 (1/2) - 25 완료
@@ -144,7 +144,7 @@ Unity와 C#을 활용한 비동기/병렬 프로그래밍 교육 레포지토리
 - [ ] Part 13: 최적화 & 디버깅 (0/3)
 - [ ] Part 14: Source Generator (0/1)
 
-**총 42개 섹션 중 11개 완료 (26%)**
+**총 42개 섹션 중 18개 완료 (43%)**
 
 ---
 
